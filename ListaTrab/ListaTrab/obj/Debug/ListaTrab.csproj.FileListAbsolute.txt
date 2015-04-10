@@ -1,0 +1,9 @@
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\bin\Debug\ListaTrab.exe.config
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\bin\Debug\ListaTrab.exe
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\bin\Debug\ListaTrab.pdb
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\obj\Debug\ListaTrab.csprojResolveAssemblyReference.cache
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\obj\Debug\ListaTrab.Form1.resources
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\obj\Debug\ListaTrab.Properties.Resources.resources
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\obj\Debug\ListaTrab.csproj.GenerateResource.Cache
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\obj\Debug\ListaTrab.exe
+C:\Users\daniel.cavalli\Desktop\ListaTrab\ListaTrab\obj\Debug\ListaTrab.pdb
